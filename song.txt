@@ -1,2 +1,4 @@
 academic writing 
 advanced programming 
+Game development 
+probability and statistics 
